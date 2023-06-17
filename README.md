@@ -86,6 +86,7 @@ The correct result is 0.125, but noise introduces some interference.
 The specific related code can be found in the "project" folder.
 
 # References
-1.Nielsen M A, Chuang I. Quantum computation and quantum information[J]. 2002.
-2.Wang H, Ding Y, Gu J, et al. Quantumnas: Noise-adaptive search for robust quantum circuits[C]//2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2022: 692-708.
-3.Nachman B, Urbanek M, de Jong W A, et al. Unfolding quantum computer readout noise[J]. npj Quantum Information, 2020, 6(1): 84.
+* Nielsen M A, Chuang I. Quantum computation and quantum information[J]. 2002.
+* Wang H, Ding Y, Gu J, et al. Quantumnas: Noise-adaptive search for robust quantum circuits[C]//2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2022: 692-708.
+* Nachman B, Urbanek M, de Jong W A, et al. Unfolding quantum computer readout noise[J]. npj Quantum Information, 2020, 6(1): 84.
+
